@@ -39,7 +39,8 @@ Dict{Symbol,Any} with 6 entries:
 ```
 
 ### SMILES input
-Sean to add...
+
+If you want SMILES, a better option might be [MolecularGraph](https://github.com/mojaie/MolecularGraph.jl).
 
 ## Requirements
 * Julia 1.4+
